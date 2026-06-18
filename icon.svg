@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" fill="#1f1b16"/>
+  <rect x="56" y="56" width="400" height="400" rx="40" fill="#f3efe7"/>
+  <text x="256" y="340" font-family="'Noto Sans JP', sans-serif" font-size="240" font-weight="700" text-anchor="middle" fill="#2f7a4d">語</text>
+</svg>
